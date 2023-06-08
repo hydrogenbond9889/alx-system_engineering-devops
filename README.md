@@ -1,1 +1,1 @@
-Shell Basic readme
+Shell Basics readme
